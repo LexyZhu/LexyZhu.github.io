@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I'm Lexy Zhu, the first year Data Science master student at New York University.
 
 ## Research Interests
 
