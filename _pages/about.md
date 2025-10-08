@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-Hi! My name is Lexy Zhu (朱乐萱). I am now a second year master student at New York University majoring in Data Science.
+Hi! My name is Lexy Zhu (朱乐萱). The approximate English pronunciation: /dʒuː lʌ ʃwɛn/. The first character is my family name, inherited from my father; the second means 'joy' or 'happiness'. The final one refers to the daylily, a herbaceous plant traditionally associated with forgetting sorrow.
+
+I am now a second year master student at New York University majoring in Data Science.
 
 I received my BSc in Statistics at both University of Nottingham and University of Nottingham, Ningbo China.
 
