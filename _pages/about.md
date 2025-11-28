@@ -25,24 +25,15 @@ I received my BSc in Statistics at both University of Nottingham and University 
 
 
 # Education
-### **New York University**  
-**Master of Science in Data Science**  
-*Sep 2024 – Present*  
-New York, USA
 
----
+**New York University** — *Master of Science, Data Science*  
+📅 **Sep 2024 – Present** | 📍 *New York, USA*
 
-### **University of Nottingham**  
-**Bachelor of Science in Statistics**  
-*Sep 2022 – Jul 2024*  
-Nottingham, UK
+**University of Nottingham** — *BSc, Statistics*  
+📅 **Sep 2022 – Jul 2024** | 📍 *Nottingham, UK*
 
----
-
-### **University of Nottingham Ningbo China**  
-**Bachelor of Science in Statistics**  
-*Sep 2020 – Jul 2022*  
-Ningbo, China
+**University of Nottingham Ningbo China** — *BSc, Statistics*  
+📅 **Sep 2020 – Jul 2022** | 📍 *Ningbo, China*
 
 
 <!--
