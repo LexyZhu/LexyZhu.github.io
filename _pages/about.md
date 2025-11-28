@@ -23,6 +23,28 @@ I am now a second year master student at New York University majoring in Data Sc
 
 I received my BSc in Statistics at both University of Nottingham and University of Nottingham, Ningbo China.
 
+
+# Education
+### **New York University**  
+**Master of Science in Data Science**  
+*Sep 2024 – Present*  
+New York, USA
+
+---
+
+### **University of Nottingham**  
+**Bachelor of Science in Statistics**  
+*Sep 2022 – Jul 2024*  
+Nottingham, UK
+
+---
+
+### **University of Nottingham Ningbo China**  
+**Bachelor of Science in Statistics**  
+*Sep 2020 – Jul 2022*  
+Ningbo, China
+
+
 <!--
 # 🔥 News
 
