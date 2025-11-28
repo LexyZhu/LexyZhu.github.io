@@ -1,8 +1,8 @@
 ---
-title: "Figure Skating"
 permalink: /figure-skating/
-author_profile: true
+title: ""
 excerpt: ""
+author_profile: true
 ---
 # Figure Skating ⛸️
 
