@@ -2,7 +2,6 @@
 layout: default
 title: "Figure Skating"
 permalink: /figure-skating/
-nav: true
 ---
 
 # Figure Skating ⛸️
