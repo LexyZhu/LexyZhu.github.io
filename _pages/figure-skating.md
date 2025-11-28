@@ -1,9 +1,9 @@
 ---
-title: "Figure Skating"
+title: ""
 permalink: /figure-skating/
 author_profile: true
-excerpt: ""
 ---
+
 # Figure Skating ⛸️
 
 I have been skating for about **two years**, and I am currently working on my **single Loop** jump. 
