@@ -1,6 +1,6 @@
 ---
 permalink: /figure-skating/
-title: ""
+title: "Figure Skating"
 excerpt: ""
 author_profile: true
 ---
