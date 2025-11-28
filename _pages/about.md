@@ -30,6 +30,9 @@ Sep 2022 – Jul 2024 | 📍 *Nottingham, UK*
 **University of Nottingham Ningbo China** — *BSc, Statistics*  
 Sep 2020 – Jul 2022 | 📍 *Ningbo, China*
 
+## Publications
+
+
 
 <!--
 # 🔥 News
