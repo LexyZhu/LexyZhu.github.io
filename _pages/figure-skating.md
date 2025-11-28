@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Figure Skating"
 permalink: /figure-skating/
 ---
