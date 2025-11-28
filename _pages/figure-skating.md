@@ -2,7 +2,6 @@
 permalink: /figure-skating/
 title: ""
 excerpt: ""
-author_profile: true
 ---
 # Figure Skating ⛸️
 
