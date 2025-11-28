@@ -12,3 +12,11 @@ Now I mainly practice at **[City Ice Pavilion](https://www.cityicepavilion.com/)
 
 ## Post
 
+{% raw %}{% assign posts = site.figureskating | sort: "date" | reverse %}
+
+{% for post in posts %}
+### {{ post.title }}
+
+*{{ post.date | date: "%b %-d, %Y" }}*
+
+{{ post.content }}
