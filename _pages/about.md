@@ -19,7 +19,7 @@ redirect_from:
 # About me
 Hi! My name is Lexy Zhu (朱乐萱). The approximate English pronunciation: /dʒuː lʌ ʃwɛn/. The first character is my family name, inherited from my father; the second means 'joy' or 'happiness'. The final one refers to the daylily, a herbaceous plant traditionally associated with forgetting sorrow.
 
-# Education
+## Education
 
 **New York University** — *Master of Science, Data Science*  
 📅 **Sep 2024 – Present** | 📍 *New York, USA*
