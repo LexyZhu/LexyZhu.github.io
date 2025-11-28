@@ -3,12 +3,5 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Figure Skating ⛸️"
     url: "/#-figure-skating"
