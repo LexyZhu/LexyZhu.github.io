@@ -1,7 +1,7 @@
 ---
-permalink: /figure-skating/
 title: "Figure Skating"
-excerpt: ""
+permalink: /figure-skating/
+layout: default
 author_profile: true
 ---
 
