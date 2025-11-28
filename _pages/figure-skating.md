@@ -2,8 +2,6 @@
 layout: default
 title: "Figure Skating"
 permalink: /figure-skating/
-author_profile: true
-excerpt: ""
 nav: true
 ---
 
