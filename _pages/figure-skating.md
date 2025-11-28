@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Figure Skating"
+permalink: /figure-skating/
+---
+
 # Figure Skating ⛸️
 
 ## Overview
