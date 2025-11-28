@@ -22,13 +22,13 @@ Hi! My name is Lexy Zhu (朱乐萱). The approximate English pronunciation: /dʒ
 ## Education
 
 **New York University** — *Master of Science, Data Science*  
-**Sep 2024 – Present** | 📍 *New York, USA*
+Sep 2024 – Present | 📍 *New York, USA*
 
 **University of Nottingham** — *BSc, Statistics*  
-**Sep 2022 – Jul 2024** | 📍 *Nottingham, UK*
+Sep 2022 – Jul 2024 | 📍 *Nottingham, UK*
 
 **University of Nottingham Ningbo China** — *BSc, Statistics*  
-**Sep 2020 – Jul 2022** | 📍 *Ningbo, China*
+Sep 2020 – Jul 2022 | 📍 *Ningbo, China*
 
 
 <!--
