@@ -2,6 +2,7 @@
 layout: page
 title: "Figure Skating"
 permalink: /figure-skating/
+author_profile: true
 ---
 
 # Figure Skating ⛸️
