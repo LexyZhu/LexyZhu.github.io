@@ -21,3 +21,24 @@ First off-ice spiral at Central Park
 <img src="https://github.com/user-attachments/assets/23e3b0f5-ed6a-4a1c-bf6a-bebb9ab0bbb9"
      alt="Spiral"
      width="400" />
+
+
+
+
+<div class="row mt-3">
+    
+    <div class="col-sm-6 clearfix">
+        <figure>
+            <img src="/assets/img/spiral.jpg" class="img-fluid rounded" alt="Spiral Practice">
+            <figcaption>Dec 2024: First off-ice spiral</figcaption>
+        </figure>
+    </div>
+
+    <div class="col-sm-6 clearfix">
+        <figure>
+            <img src="/assets/img/loop-jump.jpg" class="img-fluid rounded" alt="Loop Jump">
+            <figcaption>Practicing the Loop entry</figcaption>
+        </figure>
+    </div>
+
+</div>
