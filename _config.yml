@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# ---------------------------------------------------------
+# CRITICAL FIXES ADDED HERE
+# ---------------------------------------------------------
+url                      : "https://LexyZhu.github.io"
+baseurl                  : ""
+# ---------------------------------------------------------
+
 # Site Settings
 title                    : "Lexy Zhu"
 description              : "Second year Master student at New York University"
@@ -22,7 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lexy Lexuan Zhu"
-  avatar           : "images/Profile_photo.png"
+  avatar           : "/images/Profile_photo.png"  # FIXED: Added leading slash /
   bio              : "New York University"
   location         : "New York, US"
   employer         :
