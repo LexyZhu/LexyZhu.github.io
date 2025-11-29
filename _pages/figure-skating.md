@@ -14,9 +14,7 @@ Now I mainly practice at **[City Ice Pavilion](https://www.cityicepavilion.com/)
 
 # Post
 
-**Dec 25, 2024** 
-
-First off-ice spiral at Central Park
+**First off-ice spiral at Central Park**
 
 <div class="row mt-3">
     <div class="col-sm-12 mt-3 mt-md-0">
@@ -26,7 +24,7 @@ First off-ice spiral at Central Park
              style="width: 50%; display: block;">
         
         <div class="caption">
-            Dec 25th 2024: First off-ice spiral
+            Shot on December 25th, 2024
         </div>
         
     </div>
