@@ -19,10 +19,15 @@ Now I mainly practice at **[City Ice Pavilion](https://www.cityicepavilion.com/)
 First off-ice spiral at Central Park
 
 <div class="row mt-3">
-    <div class="col-sm-12 clearfix">
-        <figure>
-            <img src="/images/Spiral.JPG" class="img-fluid rounded" alt="Spiral Practice" style="width: 300px;"> 
-            <figcaption>Dec 25th 2024: First off-ice spiral</figcaption>
-        </figure>
+    <div class="col-sm-12 mt-3 mt-md-0">
+        
+        <img src="/images/Spiral.JPG" 
+             class="img-fluid rounded z-depth-1" 
+             style="width: 50%; display: block; margin: 0 auto;">
+        
+        <div class="caption">
+            Dec 25th 2024: First off-ice spiral
+        </div>
+        
     </div>
 </div>
