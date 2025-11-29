@@ -20,4 +20,4 @@ First off-ice spiral at Central Park
 
 <img src="https://github.com/user-attachments/assets/23e3b0f5-ed6a-4a1c-bf6a-bebb9ab0bbb9"
      alt="Spiral"
-     width="300" />
+     width="400" />
