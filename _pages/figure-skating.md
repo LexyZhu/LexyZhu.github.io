@@ -23,7 +23,7 @@ First off-ice spiral at Central Park
         
         <img src="/images/Spiral.JPG" 
              class="img-fluid rounded z-depth-1" 
-             style="width: 50%; display: block; margin: 0 auto;">
+             style="width: 50%; display: block;">
         
         <div class="caption">
             Dec 25th 2024: First off-ice spiral
