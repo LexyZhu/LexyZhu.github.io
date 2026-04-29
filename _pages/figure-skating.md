@@ -8,7 +8,7 @@ nav: false
 
 # Figure Skating ⛸️
 
-I have been skating for about **two years**, and I am currently working on my **single Loop** jump. 
+I have been skating for about **two years and a half**, and I am currently working on my **single Loop and Flip** jump. 
 My figure skating journey began at the **[National Ice Centre](https://national-ice-centre.com/)** in Nottingham. 
 Now I mainly practice at **[City Ice Pavilion](https://www.cityicepavilion.com/)** in Long Island City, and sometimes at **[Chelsea Piers Sky Rink](https://www.chelseapiers.com/skyrink-chelsea)** in Manhattan.
 
