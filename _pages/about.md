@@ -19,18 +19,16 @@ redirect_from:
 # About me
 Hi! My name is Lexy Zhu (朱乐萱). The approximate English pronunciation: /dʒuː lʌ ʃwɛn/. The first character is my family name, inherited from my father; the second means 'joy' or 'happiness'; the final one refers to the daylily, a herbaceous plant traditionally associated with forgetting sorrow.
 
+My research explores the application of artificial intelligence to psychiatry, aiming to advance AI-assisted mental health care and research. Specifically, I develop and evaluate AI systems that support clinical decision-making, enhance psychiatric assessment, and improve the quality and accessibility of mental health services.
 
 
-## Education
+## Educational Background
 
-**New York University** — *Master of Science, Data Science*  
-Sep 2024 – Present |  *New York, USA*
+Sep 2024 – May 2026: **New York University**, New York, USA, Master of Science in Data Science 
 
-**University of Nottingham** — *BSc, Statistics*  
-Sep 2022 – Jul 2024 | *Nottingham, UK*
+Sep 2022 – Jul 2024: **University of Nottingham**, Nottingham, UK, Bachelor of Science with Honours in Statistics
 
-**University of Nottingham Ningbo China** — *BSc, Statistics*  
-Sep 2020 – Jul 2022 | *Ningbo, China*
+Sep 2020 – Jul 2022: **University of Nottingham Ningbo China**, Ningbo, China, Bachelor of Science with Honours in Statistics 
 
 
 
